@@ -1,4 +1,4 @@
-# Academic site for Joel Suss
+# Academic website
 
 This repo contains the files for [my academic website](https://jhsuss.github.io/).
 
