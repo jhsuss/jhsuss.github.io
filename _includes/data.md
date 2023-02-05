@@ -1,10 +1,6 @@
 ---
 layout: default
 title: "Data"
-#permalink: /data/
-#author_profile: false
-#redirect_from:
-#  - /data
 ---
 
 ## Local economic inequality in the UK
@@ -14,4 +10,4 @@ title: "Data"
     * Data collected for "[Measuring local, salient economic inequality in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3958731)" (In Press, *Environment and Planning A*), 
     * See the [repo](https://github.com/jhsuss/uk-local-inequality/) for code 
 
-`screenshot`: ![Local inequality in the UK](https://jhsuss.github.io/assets/img/map-local-inequality.jpg)
+![Local inequality in the UK](https://jhsuss.github.io/assets/img/map-local-inequality.jpg)
