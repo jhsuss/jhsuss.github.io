@@ -7,8 +7,6 @@ title: "Data"
 #  - /data
 ---
 
-{% include base_path %}
-
 ## Local economic inequality in the UK
 
 * Estimates of economic inequality at various, granular spatial levels -- LSOA, MSOA, Built-up Areas, Local Authority Districts, and Travel to Work Areas  
