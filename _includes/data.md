@@ -16,4 +16,4 @@ title: "Data"
     * Data collected for "[Measuring local, salient economic inequality in the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3958731)" (In Press, *Environment and Planning A*), 
     * See the [repo](https://github.com/jhsuss/uk-local-inequality/) for code 
 
-![Local inequality in the UK](assets/img/map-local-inequality.jpg)
+`screenshot`: ![Local inequality in the UK](assets/img/map-local-inequality.jpg)
