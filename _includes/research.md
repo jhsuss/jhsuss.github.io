@@ -5,16 +5,14 @@
 
 ## <a id="journal_papers"></a> Academic journal publications
 
-<!---* Suss, J.H (In press).
+    * Suss, J.H (In Press).
         "Measuring local, salient economic inequality in the UK"
         *Environment & Planning A: Economy and Space*, 
-        `https://doi.org/`
+        `https://dx.doi.org/10.2139/ssrn.3958731`
 
     * [Published version]() (Open Access)
     * [Code](https://github.com/jhsuss/uk-local-inequality)
     * [Interactive map & data download](https://jhsuss.shinyapps.io/uk-local-inequality/)
-
---->
     
 * Suss, J.H. & Oliveira, T.R. (2022).
         "Economic Inequality and the Spatial Distribution of Stop and Search: Evidence from London"
