@@ -5,12 +5,12 @@
 
 ## <a id="journal_papers"></a> Academic journal publications
 
-* Suss, J.H (In Press).
+* Suss, J.H (2023).
         "Measuring local, salient economic inequality in the UK"
         *Environment & Planning A: Economy and Space*, 
-        `https://dx.doi.org/10.2139/ssrn.3958731`
+        `https://doi.org/10.1177/0308518X231154255`
 
-    * [Pre-print version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3958731)
+    * [Published version](https://journals.sagepub.com/doi/10.1177/0308518X231154255)
     * [Code](https://github.com/jhsuss/uk-local-inequality)
     * [Interactive map & data download](https://jhsuss.shinyapps.io/uk-local-inequality/)
     
