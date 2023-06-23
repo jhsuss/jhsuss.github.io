@@ -6,15 +6,23 @@
 ## <a id="journal_papers"></a> Academic journal publications
 
 * Suss, J.H (2023).
+        "Higher income individuals are more generous when local economic inequality is high"
+        *PLOS ONE*, 
+        `https://doi.org/10.1371/journal.pone.0286273`
+
+    * [Published version](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286273) (Open Access)
+    * Media coverage: [Forbes](https://www.forbes.com/sites/ariannajohnson/2023/06/14/rich-people-donate-more-when-they-actually-see-poor-people-study-suggests/)
+
+* Suss, J.H (2023).
         "Measuring local, salient economic inequality in the UK"
         *Environment & Planning A: Economy and Space*, 
         `https://doi.org/10.1177/0308518X231154255`
 
-    * [Published version](https://journals.sagepub.com/doi/10.1177/0308518X231154255)
+    * [Published version](https://journals.sagepub.com/doi/10.1177/0308518X231154255) (Open Access)
     * [Code](https://github.com/jhsuss/uk-local-inequality)
     * [Interactive map & data download](https://jhsuss.shinyapps.io/uk-local-inequality/)
     
-* Suss, J.H. & Oliveira, T.R. (2022).
+* Suss, J.H. & Oliveira, T.R. (2023).
         "Economic Inequality and the Spatial Distribution of Stop and Search: Evidence from London"
         *British Journal of Criminology*, 
         `https://doi.org/10.1093/bjc/azac069`
