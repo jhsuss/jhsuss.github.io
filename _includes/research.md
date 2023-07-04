@@ -33,7 +33,7 @@
 
 ## <a id="working_papers"></a> Working papers
 
-* Suss (2022) 
+* Suss, Connor, Kemeny (2023) 
         "GEOWEALTH: Spatial wealth inequality data for the United States, 1960-2020"
 
 * Suss (2022) 
