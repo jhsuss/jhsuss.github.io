@@ -33,6 +33,16 @@
 
 ## <a id="working_papers"></a> Working papers
 
+* Suss (2022) 
+        "GEOWEALTH: Spatial wealth inequality data for the United States, 1960-2020"
+
+* Suss (2022) 
+        "Diversity, segregation and support for Brexit"
+        *SSRN*, 
+        `https://ssrn.com/abstract=4491466`
+
+    * [Published version](https://ssrn.com/abstract=4491466) 
+    
 * Suss, Angeli, and Eckley (2021) 
         "Gender, age and nationality diversity in UK banks"
         *Bank of England Staff Working Paper (No. 929)*, 
