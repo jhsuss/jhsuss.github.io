@@ -8,3 +8,12 @@
     * See the [repo](https://github.com/jhsuss/uk-local-inequality/) for code
 
 ![Local inequality in the UK](https://jhsuss.github.io/assets/img/map-local-inequality.jpg)
+
+## GEOWEALTH: spatial wealth inequality in the US
+
+* Estimates of wealth and wealth inequality at lower levels of geography (PUMA, Commuting Zone, Metropolitan Areas, States, Regions)  
+    * [Paper](http://eprints.lse.ac.uk/119980/1/III_working_paper_99.pdf) 
+    * [Data](https://www.openicpsr.org/openicpsr/project/192306/version/V1/view) 
+    * Replication [code](https://github.com/jhsuss/wealth-inequality/) 
+
+
