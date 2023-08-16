@@ -35,6 +35,8 @@
 
 * Suss, Connor, Kemeny (2023) 
         "GEOWEALTH: Spatial wealth inequality data for the United States, 1960-2020"
+        *LSE International Inequalities Institute Working Paper (No. 99)*
+    * [Published version](http://eprints.lse.ac.uk/119980/1/III_working_paper_99.pdf)
 
 * Suss (2022) 
         "Diversity, segregation and support for Brexit"
