@@ -11,7 +11,7 @@
         `https://doi.org/10.1371/journal.pone.0286273`
 
     * [Published version](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286273) (Open Access)
-    * Media coverage: [Forbes](https://www.forbes.com/sites/ariannajohnson/2023/06/14/rich-people-donate-more-when-they-actually-see-poor-people-study-suggests/)
+    * Media coverage: [Washington Post](https://www.washingtonpost.com/opinions/2023/12/29/real-reason-beggars-giving/), [Forbes](https://www.forbes.com/sites/ariannajohnson/2023/06/14/rich-people-donate-more-when-they-actually-see-poor-people-study-suggests/)
 
 * Suss, J.H (2023).
         "Measuring local, salient economic inequality in the UK"
