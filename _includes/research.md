@@ -5,6 +5,15 @@
 
 ## <a id="journal_papers"></a> Academic journal publications
 
+* Suss, Kemeny, Connor (2024).
+        "GEOWEALTH-US: Spatial wealth inequality data for the United States, 1960–2020"
+        *Nature Scientific Data*, 
+        `10.1038/s41597-024-03059-9`
+
+    * [Published version](https://www.nature.com/articles/s41597-024-03059-9) (Open Access)
+    * [Code](https://github.com/jhsuss/wealth-inequality)
+    * [Data download](https://www.openicpsr.org/openicpsr/project/192306/version/V4/view)
+
 * Suss, J.H (2023).
         "Higher income individuals are more generous when local economic inequality is high"
         *PLOS ONE*, 
@@ -32,11 +41,6 @@
     * [LSE blog](https://blogs.lse.ac.uk/politicsandpolicy/does-economic-inequality-fuel-stop-and-search-by-the-police-evidence-from-london-suggests-the-answer-is-yes/) & [Stop Watch blog](https://www.stop-watch.org/news-opinion/does-economic-inequality-fuel-stop-and-search-by-the-police-evidence-from-london-suggests-the-answer-is-yes/)
 
 ## <a id="working_papers"></a> Working papers
-
-* Suss, Connor, Kemeny (2023) 
-        "GEOWEALTH: Spatial wealth inequality data for the United States, 1960-2020"
-        *LSE International Inequalities Institute Working Paper (No. 99)*
-    * [Published version](http://eprints.lse.ac.uk/119980/1/III_working_paper_99.pdf)
 
 * Suss (2022) 
         "Diversity, segregation and support for Brexit"
