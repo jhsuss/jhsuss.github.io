@@ -7,7 +7,7 @@
     * [Code](https://github.com/jhsuss/wealth-inequality)
     * [Data](https://www.openicpsr.org/openicpsr/project/192306/version/V4/view)
 
- <img src="https://jhsuss.github.io/assets/img/revised_fig_scatter_gini_change.png" width="750" height="750">
+ ![Gini scatter](https://jhsuss.github.io/assets/img/revised_fig_scatter_gini_change.png)
  
 ## Local economic inequality in the UK
 
